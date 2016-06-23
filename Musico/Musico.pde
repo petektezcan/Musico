@@ -1,4 +1,4 @@
-//Copyright Petek Tezcan
+// Copyright Petek Tezcan
 // Code for Final Bachelor Project
 // University of Technology Eindhoven
 
